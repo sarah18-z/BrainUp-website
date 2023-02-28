@@ -200,7 +200,7 @@
   /* End Home page */
   /* Start About  */
   .about {
-    background-image: url("img/background.png");
+    background-image: url("/img/background.png");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
